@@ -7,8 +7,7 @@
 ```sh
 python3 -m venv venv
 ```
-2. 
-Activate the virtual environment:
+2. Activate the virtual environment:
 ```sh
 source venv/bin/activate
 ```
