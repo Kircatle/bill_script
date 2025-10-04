@@ -12,7 +12,7 @@ REQUIRED_BILLS = {
 }
 
 
-def get_sum_bills(filename: str,column_num:int) -> float:
+def get_sum_bills(filename: str, column_num:int) -> float:
     if filename[-4:] != ".pdf":
         print(f"Файл {filename} не является pdf")
         return
